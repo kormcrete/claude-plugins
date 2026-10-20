@@ -1,0 +1,16 @@
+{
+  "name": "kormcrete",
+  "description": "Claude Code plugins from kormcrete.",
+  "owner": {
+    "name": "kormcrete",
+    "url": "https://github.com/kormcrete"
+  },
+  "plugins": [
+    {
+      "name": "swing-ui-agent",
+      "source": "./plugins/swing-ui-agent",
+      "description": "Skills and a driver sub-agent that let a coding agent drive a live Swing app through swing-ui-agent and record its UI tests.",
+      "homepage": "https://kormcrete.github.io/swing-ui-agent/"
+    }
+  ]
+}
