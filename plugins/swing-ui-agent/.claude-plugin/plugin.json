@@ -1,6 +1,6 @@
 {
   "name": "swing-ui-agent",
-  "version": "0.1.0-SNAPSHOT.2",
+  "version": "0.1.0-SNAPSHOT.3",
   "description": "Skills and a driver sub-agent that let a coding agent drive a live Swing app through swing-ui-agent and record its UI tests.",
   "author": {
     "name": "kormcrete",
